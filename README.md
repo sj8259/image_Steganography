@@ -1,1 +1,2 @@
 # image_Steganography
+THis  project is image steganography which hides a message using traditional technique(LSB). Steganography, derived from the Greek words "steganos" (meaning covered) and "graphie" (meaning writing), involves the clandestine embedding of information within seemingly innocuous carriers. In this project, we delve into the world of steganography, employing a technique to hide messages within digital images.
